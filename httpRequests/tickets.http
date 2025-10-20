@@ -1,0 +1,4 @@
+### Get All Tickets
+GET http://tickets-please.test/api/tickets
+Content-Type: application/json
+Accept: application/json
